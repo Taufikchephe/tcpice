@@ -1,2 +1,0 @@
-# tcpice
-Tugas1
